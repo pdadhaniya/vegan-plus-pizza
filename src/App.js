@@ -10,6 +10,7 @@ class App extends Component {
           <div className="Twitter-info">
             <img src={twitterLogo} className="Twitter-logo" alt="twitterlogo" />
             <a href="https://www.twitter.com/veganpluspizza">VeganPlusPizza</a>
+            Coming Soon
           </div>
         </div>
       </div>
